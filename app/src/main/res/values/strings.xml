@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressDialog</string>
+    <string name="loading">请稍后...</string>
+    <string name="reload">重新尝试</string>
+</resources>
